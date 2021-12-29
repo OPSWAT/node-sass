@@ -61,10 +61,9 @@
     "glob": "^7.0.3",
     "lodash": "^4.17.15",
     "meow": "^10.1.0",
+    "make-fetch-happen": "^9.1.0",
     "nan": "^2.13.2",
     "node-gyp": "^8.4.1",
-    "npmlog": "^5.0.0",
-    "request": "^2.88.0",
     "sass-graph": "4.0.0",
     "stdout-stream": "^1.4.0",
     "true-case-path": "^2.2.1"
